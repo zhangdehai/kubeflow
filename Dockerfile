@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:e65e11bc8711ed619b346f0385de4d266f59dccf0781fe41a416559b85d414ed
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:1ef3328282f31704b5802c1136bd117e8598fd9f437df8209ca87366c5ce9fcb
 MAINTAINER int32bit
