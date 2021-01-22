@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler-hpa@sha256:5e0fadf574e66fb1c893806b5c5e5f19139cc476ebf1dff9860789fe4ac5f545
+FROM gcr.io/knative-releases/knative.dev/net-kourier/cmd/kourier@sha256:00ec3aef7b58a91247f6bdecbe1f5fad876c13778716a72ec3b2b76e15069d92
 MAINTAINER int32bit
