@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/net-kourier/cmd/kourier@sha256:00ec3aef7b58a91247f6bdecbe1f5fad876c13778716a72ec3b2b76e15069d92
+FROM gcr.io/kubeflow-images-public/kubernetes-sigs/application:1.0-beta
 MAINTAINER int32bit
