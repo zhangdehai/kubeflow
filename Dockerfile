@@ -1,2 +1,2 @@
-FROM gcr.io/kubeflow-images-public/kubernetes-sigs/application:1.0-beta
+FROM gcr.io/arrikto/kubeflow/oidc-authservice:28c59ef
 MAINTAINER int32bit
