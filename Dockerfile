@@ -1,2 +1,2 @@
-FROM gcr.io/ml-pipeline/minio:RELEASE.2019-08-14T20-37-41Z-license-compliance
+FROM gcr.io/spark-operator/spark-operator:v1beta2-1.1.0-2.4.5
 MAINTAINER int32bit
