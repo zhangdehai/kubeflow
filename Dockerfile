@@ -1,2 +1,2 @@
-FROM  gcr.io/kubeflow-images-public/notebook-controller:vmaster-g6eb007d0
+FROM  gcr.io/kfserving/kfserving-controller:v0.4.1
 MAINTAINER int32bit
