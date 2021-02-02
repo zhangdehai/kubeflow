@@ -1,2 +1,2 @@
-FROM gcr.io/kubeflow-images-public/jupyter-web-app:vmaster-g845af298
+FROM gcr.io/ml-pipeline/minio:RELEASE.2019-08-14T20-37-41Z-license-compliance
 MAINTAINER int32bit
