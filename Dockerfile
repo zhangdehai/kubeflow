@@ -1,2 +1,2 @@
-FROM  gcr.io/kfserving/kfserving-controller:v0.4.1
+FROM  gcr.io/arrikto/dexidp/dex:4bede5eb80822fc3a7fc9edca0ed2605cd339d17
 MAINTAINER int32bit
