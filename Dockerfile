@@ -1,2 +1,2 @@
-FROM  gcr.io/arrikto/dexidp/dex:4bede5eb80822fc3a7fc9edca0ed2605cd339d17
+FROM  gcr.io/knative-releases/knative.dev/net-istio/cmd/webhook@sha256:e6b142c0f82e0e0b8cb670c11eb4eef6ded827f98761bbf4bea7bdb777b80092
 MAINTAINER int32bit
